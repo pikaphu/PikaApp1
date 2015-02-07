@@ -1,3 +1,4 @@
+// test git
 package app.pikaphu.pika1.pikaapp1;
 
 import android.support.v7.app.ActionBarActivity;
